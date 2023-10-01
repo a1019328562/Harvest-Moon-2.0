@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/forceSleep.wav-e9fb649e1d659dacc5e684273ef5aeeb.sample"
+type="AudioStreamWAV"
+uid="uid://bitc40menfe4u"
+path="res://.godot/imported/forceSleep.wav-e9fb649e1d659dacc5e684273ef5aeeb.sample"
 
 [deps]
 
 source_file="res://sound/music/forceSleep.wav"
-dest_files=[ "res://.import/forceSleep.wav-e9fb649e1d659dacc5e684273ef5aeeb.sample" ]
+dest_files=["res://.godot/imported/forceSleep.wav-e9fb649e1d659dacc5e684273ef5aeeb.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=false
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

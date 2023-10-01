@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/purchase.wav-73d83a757029edbfe01601ae754ee710.sample"
+type="AudioStreamWAV"
+uid="uid://7srcgath2unl"
+path="res://.godot/imported/purchase.wav-73d83a757029edbfe01601ae754ee710.sample"
 
 [deps]
 
 source_file="res://sound/effects/purchase.wav"
-dest_files=[ "res://.import/purchase.wav-73d83a757029edbfe01601ae754ee710.sample" ]
+dest_files=["res://.godot/imported/purchase.wav-73d83a757029edbfe01601ae754ee710.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=false
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

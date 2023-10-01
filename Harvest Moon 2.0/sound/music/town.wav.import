@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/town.wav-0185337121bc58fd8c285caa0d7f8381.sample"
+type="AudioStreamWAV"
+uid="uid://i8wy5lomii1r"
+path="res://.godot/imported/town.wav-0185337121bc58fd8c285caa0d7f8381.sample"
 
 [deps]
 
 source_file="res://sound/music/town.wav"
-dest_files=[ "res://.import/town.wav-0185337121bc58fd8c285caa0d7f8381.sample" ]
+dest_files=["res://.godot/imported/town.wav-0185337121bc58fd8c285caa0d7f8381.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=false
-edit/loop=true
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0
